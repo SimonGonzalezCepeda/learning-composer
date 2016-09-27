@@ -7,5 +7,12 @@
             "email": "simongonzalez@iesebre.com"
         }
     ],
-    "require": {}
+    "require": {
+        "mfacement/hello-world": "1.0"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Acacha\\" : "src/"
+        }
+    }
 }
