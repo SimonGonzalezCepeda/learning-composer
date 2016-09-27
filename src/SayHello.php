@@ -1,5 +1,6 @@
 <?php
 
+namespace Syvler\Hello;
 
 class SayHello
 {
