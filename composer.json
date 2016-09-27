@@ -12,7 +12,8 @@
     },
     "autoload" : {
         "psr-4" : {
-            "Acacha\\" : "src/"
-        }
+            "Sylver\\Hello\\" : "src/"
+        },
+        "files" : ["core/function.php"]
     }
 }
