@@ -1,0 +1,11 @@
+{
+    "name": "sylver/learning-composer",
+    "description": "It's just a learning exercice.",
+    "authors": [
+        {
+            "name": "SimonGonzalezCepeda",
+            "email": "simongonzalez@iesebre.com"
+        }
+    ],
+    "require": {}
+}
